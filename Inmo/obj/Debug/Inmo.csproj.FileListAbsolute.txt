@@ -1,0 +1,10 @@
+C:\Users\Lucho\source\repos\Inmo\Inmo\bin\Debug\Inmo.exe.config
+C:\Users\Lucho\source\repos\Inmo\Inmo\bin\Debug\Inmo.exe
+C:\Users\Lucho\source\repos\Inmo\Inmo\bin\Debug\Inmo.pdb
+C:\Users\Lucho\source\repos\Inmo\Inmo\obj\Debug\Inmo.csprojAssemblyReference.cache
+C:\Users\Lucho\source\repos\Inmo\Inmo\obj\Debug\Inmo.Properties.Resources.resources
+C:\Users\Lucho\source\repos\Inmo\Inmo\obj\Debug\Inmo.csproj.GenerateResource.cache
+C:\Users\Lucho\source\repos\Inmo\Inmo\obj\Debug\Inmo.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\source\repos\Inmo\Inmo\obj\Debug\Inmo.exe
+C:\Users\Lucho\source\repos\Inmo\Inmo\obj\Debug\Inmo.pdb
+C:\Users\Lucho\source\repos\Inmo\Inmo\obj\Debug\Inmo.Registro.resources
